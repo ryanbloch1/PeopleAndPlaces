@@ -1,16 +1,8 @@
-# people_and_places
+Okay, James, I understand. This is a very interesting and potentially powerful concept for an app, especially for real-time insights into crowd density!
 
-App that determines population density of people at different user selected locations at any given time. Provides live data of peoples movements to see how busy places are.
+You've got a great, concise pitch for what it does. The "live data of people's movements to see how busy places are" is the core value proposition.
 
-## Getting Started
+Given that it's in the POC (Proof of Concept) investigation phase, here's a breakdown of what that implies and some initial thoughts on the technical challenges and opportunities:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+People & Places App: POC Investigation Phase
+Core Idea: An application providing real-time population density and movement data for user-selected locations.
